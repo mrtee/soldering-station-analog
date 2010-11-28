@@ -1,44 +1,29 @@
 Soldering Station Analog
 ========================
 
-WTF is that?
+WTF is this?
 ------------
-
 A D.I.Y. cheap temperature-regulated soldering station powered from a laptop adaptor. 
 It is developed in a http://hspbp.org[hungarian hackerspace]. It can be 
 purchased as a D.I.Y. kit also, see the details http://hspbp.org/ironkit[here]. 
 This is an open-source project. The printed circuit board and other informations 
 are published https://github.com/mrtee/soldering-station-analog[here]. The project 
-has a unique 
-link:LICENSE.asciidoc[license]. 
+has a unique link:soldering-station-analog/LICENSE.asciidoc[license]. 
 
-link:LICENSE[license].
-link:./LICENSE.asciidoc[license]. 
-  {outdir}
+Build notes
+-----------
+In order to build this equipment you need to make the PCB board, get some components, 
+a laptop adaptor 19-24V, the iron and solder the box.
 
-link:./LICENSE.asciidoc[license].
+Drilling
+~~~~~~~~
+The holes are 0.8 mm except the
+*DIN-5 connector, the ground connection (derives from the central pin of the DIN-5 
+connector), the transistor -- these holes should be 1 mm
+*The big potentiometer's holes should be 1.2 mm
+*The other holes at the edges should be 3 mm and the big one 6.5 mm
+*The holes on the plastic box should be 6.5 mm
 
-
-
-WTF is that?
-------------
-qoisdjqowisjoqwisjqwoi
-soqiwjsoqijwosiqj
-
-
-Level 2
-~~~~~~~
-Level 3
-^^^^^^^
-Level 4
-+++++++
-{docname} {docfile} {docdir}
-
-
-sauhushausah
-asdhuashudsa
-
-http://google.com[Google Search]
-
-link:asciidoc[This document]
-
+Component list
+~~~~~~~~~~~~~~
+to be added
