@@ -9,7 +9,14 @@ It is developed in a http://hspbp.org[hungarian hackerspace]. It can be
 purchased as a D.I.Y. kit also, see the details http://hspbp.org/ironkit[here]. 
 This is an open-source project. The printed circuit board and other informations 
 are published https://github.com/mrtee/soldering-station-analog[here]. The project 
-has a unique link:LICENSE.asciidoc[license].
+has a unique 
+link:LICENSE.asciidoc[license]. 
+
+link:LICENSE[license].
+link:./LICENSE.asciidoc[license]. 
+link:./LICENSE.asciidoc[license].
+
+
 
 WTF is that?
 ------------
