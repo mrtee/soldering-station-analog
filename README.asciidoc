@@ -23,6 +23,7 @@ Level 3
 ^^^^^^^
 Level 4
 +++++++
+{docname} {docfile} {docdir}
 
 
 sauhushausah
@@ -32,6 +33,3 @@ http://google.com[Google Search]
 
 link:asciidoc[This document]
 
-{docname}             document file name without extension
-{docfile}             document file name  (note 5)
-{docdir}              document input directory name  (note 5)
