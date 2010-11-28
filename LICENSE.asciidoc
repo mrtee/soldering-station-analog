@@ -2,7 +2,7 @@ Multi View Point Licence -- MVPL V1.0
 
 This information has born by its nature. You can see it from any
 viewpoints including the ones consider the application and enforcement 
-of the copyright law, and many others as well.
+of the copyright law, __and many others as well.__
 
 (Within the scope of the law this licence should be interpreted
 identically to http://en.wikipedia.org/wiki/WTFPL[WTFPL V2.0] license 
