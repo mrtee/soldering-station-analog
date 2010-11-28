@@ -5,8 +5,8 @@ viewpoints including the ones consider the application and enforcement
 of the copyright law, and many others as well.
 
 (Within the scope of the law this licence should be interpreted
-identically to the http://en.wikipedia.org/wiki/WTFPL[WTFPL V2.0] license 
-(C) mrtee.github.com.).
+identically to http://en.wikipedia.org/wiki/WTFPL[WTFPL V2.0] license 
+(C) mrtee.github.com )
 
 THE SOFTWARE IS PROVIDED "AS IS" AND ANY OF THE CONTRIBUTORS DISCLAIM
 ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES
