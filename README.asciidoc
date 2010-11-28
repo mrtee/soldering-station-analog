@@ -32,13 +32,6 @@ http://google.com[Google Search]
 
 link:asciidoc[This document]
 
-{asciidoc-dir}        the asciidoc(1) application directory
-{asciidoc-file}       the full path name of the asciidoc(1) script
-{outfile}, {outdir}, {infile}, {indir} 
-{docdate}             document last modified date
-{doctime}             document last modified time
 {docname}             document file name without extension
 {docfile}             document file name  (note 5)
 {docdir}              document input directory name  (note 5)
-{doctitle}            document title (from document header)
-
