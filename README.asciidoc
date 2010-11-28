@@ -32,3 +32,5 @@ http://google.com[Google Search]
 
 link:asciidoc[This document]
 
+{asciidoc-dir}        the asciidoc(1) application directory
+{asciidoc-file}       the full path name of the asciidoc(1) script
