@@ -1,6 +1,34 @@
-IUGIUGIUH
-=========
+Soldering Station Analog
+========================
+
+WTF is that?
+------------
+
+A D.I.Y. cheap temperature-regulated soldering station powered from a laptop adaptor. 
+It is developed in a http://hspbp.org[hungarian hackerspace]. It can be 
+purchased as a D.I.Y. kit also, see the details http://hspbp.org/ironkit[here]. 
+This is an open-source project. The printed circuit board and other informations 
+are published https://github.com/mrtee/soldering-station-analog[here]. The project 
+has a unique link:LICENSE.asciidoc[license].
+
+WTF is that?
+------------
+qoisdjqowisjoqwisjqwoi
+soqiwjsoqijwosiqj
+
+
+Level 2
+~~~~~~~
+Level 3
+^^^^^^^
+Level 4
++++++++
+
 
 sauhushausah
 asdhuashudsa
+
+http://google.com[Google Search]
+
+link:asciidoc[This document]
 
