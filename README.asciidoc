@@ -8,22 +8,26 @@ It is developed in a http://hspbp.org[hungarian hackerspace]. It can be
 purchased as a D.I.Y. kit also, see the details http://hspbp.org/ironkit[here]. 
 This is an open-source project. The printed circuit board and other informations 
 are published https://github.com/mrtee/soldering-station-analog[here]. The project 
-has a unique link:soldering-station-analog/LICENSE.asciidoc[license]. 
+has a unique link:soldering-station-analog/blob/master/LICENSE.asciidoc[license]. 
 
 Build notes
 -----------
-In order to build this equipment you need to make the PCB board, get some components, 
-a laptop adaptor 19-24V, the iron and solder the box.
+In order to build this equipment you need to make the PCB, get some components, 
+a laptop adaptor 19-24V, the professional iron "IRON-N" for 6.5 EUR and solder the box.
 
 Drilling
 ~~~~~~~~
 The holes are 0.8 mm except the
-*DIN-5 connector, the ground connection (derives from the central pin of the DIN-5 
+- DIN-5 connector, the ground connection (derives from the central pin of the DIN-5 
 connector), the transistor -- these holes should be 1 mm
-*The big potentiometer's holes should be 1.2 mm
-*The other holes at the edges should be 3 mm and the big one 6.5 mm
-*The holes on the plastic box should be 6.5 mm
+- The big potentiometer's holes should be 1.2 mm
+- The other holes at the edges should be 3 mm and the big one 6.5 mm
+- The holes on the plastic box should be 6.5 mm
 
 Component list
 ~~~~~~~~~~~~~~
 to be added
+
+Schematic
+~~~~~~~~~
+to be added too
