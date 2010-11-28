@@ -1,7 +1,7 @@
 Multi View Point Licence -- MVPL V1.0
 
 This information has born by its nature. You can see it from any
-viewpoints including the ones consider the application and enforcement 
+viewpoints including the ones consider the application/enforcement 
 of the copyright law, and **many others too**.
 
 (Within the scope of the law this licence should be interpreted
