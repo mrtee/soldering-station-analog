@@ -1,0 +1,14 @@
+Component List
+==============
+
+There are 3 versions of the equipment: the boxed version with RETRO
+design, the boxed version with ELECTRO style, and the
+BOXLESS version which is cheap.
+
+.Component table
+[options="header,footer"]
+|===============================================================
+|Component name		|Component type	|RETRO	|ELECTRO|BOXLESS
+|Potentiometer 100K	|PT15LV		|1	|1	|1
+|aa			|	aa	|aa	|aa	|aas
+|=======================
