@@ -13,7 +13,7 @@ has a unique link:soldering-station-analog/blob/master/LICENSE.asciidoc[license]
 Build notes
 -----------
 In order to build this equipment you need to make the PCB, get some components, 
-a laptop adaptor 19-24V, the professional iron "IRON-N" for 6.5 EUR and solder the box.
+a laptop adaptor 19-24V, the professional iron "IRON-N" for 6.5 EUR and solder the PCB.
 
 Drilling
 ~~~~~~~~
@@ -30,7 +30,6 @@ Component list
 There are 3 versions of the equipment: the boxed version with RETRO
 and ELECTRO styles, and the BOXLESS version which is cheap.
 
-.Component table
 [options="header,footer"]
 |===============================================================================
 |Component name				|Part no.	|RETRO	|ELECTRO|BOXLESS
@@ -59,6 +58,7 @@ and ELECTRO styles, and the BOXLESS version which is cheap.
 |Dome head wood screw 13x2,5mm		|		|	|	|2
 |Potentiometer schaft PT15 19mm red	|CA14W19R	|	|	|1
 |LED red 3mm 				|		|	|	|1
+|The PCB of course 60x40mm		|		|1	|1	|1
 |===============================================================================
 
 Schematic
