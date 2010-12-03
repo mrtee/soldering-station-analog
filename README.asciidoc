@@ -1,7 +1,7 @@
 Soldering Station Analog
 ========================
 
-WTF is this?
+WTH is this?
 ------------
 A D.I.Y. cheap temperature-regulated soldering station powered from a laptop adaptor. 
 It is developed in a http://hspbp.org[hungarian hackerspace]. It can be 
@@ -34,31 +34,31 @@ and ELECTRO styles, and the BOXLESS version which is cheap.
 [options="header,footer"]
 |===============================================================================
 |Component name				|Part no.	|RETRO	|ELECTRO|BOXLESS
-|DIN5 socket 90' PCB			|		|1	|1	|1
-|Potentiometer schaft PT15 25mm black	|		|1	|1	|
-|Potentiometer schaft PT15 19mm red	|CA14W19R	|	|	|1
-|Potentiometer trimmer 100K 15mm	|PT15NV		|1	|1	|1
-|IRF540 transistor			|IRF540N	|1	|1	|1
 |LM358 integrated circuit		|LM358N	DIP8	|1	|1	|1
+|DIN-5 socket 90' PCB			|		|1	|1	|1
+|DC socket 2.1m/5.5mm 90' PCB		|		|1	|1	|1
+|IRF540 transistor			|IRF540N	|1	|1	|1
+|Potentiometer trimmer 100K 15mm	|PT15NV		|1	|1	|1
 |150nF capacitor 5mm			|		|1	|1	|1
 |15V zener diode			|BZXC55C15	|1	|1	|1
 |Potentiometer trimmer 220K 6.3mm	|PT6V		|1	|1	|1
-|DC socket 2.1m/5.5mm 90' PCB		|		|1	|1	|1
-|LED cap 5mm yellow square low profile	|KEYS8688	|1	|	|
-|Knob for potentiometer shaft green	|G19-GN		|1	|	|
-|Knob for potentiometer shaft blue	|G19-BU		|	|1	|
-|1.2K 0.25W resistor			|		|2	|2	|3
-|3.3K 0.25W resistor			|		|1	|	|
-|8.2K 0.25W resistor			|		|	|1	|
+|560K 0.25W resistor			|		|1	|1	|1
+|10nF capacitor 2.5mm			|		|1	|1	|1
+|Potentiometer schaft PT15 25mm black	|		|1	|1	|
 |Plastic box 31x47x66mm			|KPZ-1BU	|1	|1	|
+|1.2K 0.25W resistor			|		|2	|2	|3
+|Knob for potentiometer shaft green	|G19-GN		|1	|	|
+|3.3K 0.25W resistor			|		|1	|	|
+|LED cap 5mm yellow square low profile	|KEYS8688	|1	|	|
+|LED yellow transparent 5mm		|		|1	|	|
+|Knob for potentiometer shaft blue	|G19-BU		|	|1	|
+|LED cap 5mm transp. square low profile	|KEYS8689	|	|1	|
+|8.2K 0.25W resistor			|		|	|1	|
+|LED pink 5mm				|LED5 P-LC	|	|1	|
 |Round-spacer 3.6x3mm black polystyrol  |KDR03		|	|	|2
 |Dome head wood screw 13x2,5mm		|		|	|	|2
-|Pink LED				|LED5 P-LC	|	|	|1
-|LED cap 5mm transp. square low profile	|KEYS8689	|	|1	|
-|560K 0.25W resistor			|		|1	|1	|1
-|LED yellow transparent 5mm		|		|1	|	|
+|Potentiometer schaft PT15 19mm red	|CA14W19R	|	|	|1
 |LED red 3mm 				|		|	|	|1
-|10nF capacitor 2.5mm			|		|1	|1	|1
 |===============================================================================
 
 Schematic
