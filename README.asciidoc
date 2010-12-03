@@ -27,7 +27,7 @@ connector), the transistor -- these holes should be 1 mm
 Component list
 ~~~~~~~~~~~~~~
 
-There are 3 versions of the equipment: the boxed version with RETRO
+There are 3 variants of the equipment: the boxed version with RETRO
 and ELECTRO styles, and the BOXLESS version which is cheap.
 
 [options="header,footer"]
